@@ -1,0 +1,1 @@
+{"rustc":18438920949429228540,"features":"[]","target":8285985575135148287,"profile":14996655781355331481,"path":1036222786711178230,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"x86_64-os/debug/.fingerprint/os-70ef696e3e10af4c/dep-bin-os-70ef696e3e10af4c"}}],"rustflags":["--sysroot","/home/nathantompkins/rust-kernel/os/target/sysroot"],"metadata":8939316534681030262}

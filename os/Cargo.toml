@@ -1,0 +1,9 @@
+[package]
+name = "os"
+version = "0.1.0"
+authors = ["nathantompkins"]
+edition = "2018"
+
+
+[dependencies]
+bootloader = "0.8.0"
